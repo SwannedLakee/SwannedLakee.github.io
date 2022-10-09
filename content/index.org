@@ -2,8 +2,8 @@
 
 * List of pages
 here are the pages on this site
-- [[./content/EMACS/External/emacs.org]]
-- [[./content/SUSE/index.org]]
+- [[./EMACS/External/emacs.org]]
+- [[./SUSE/index.org]]
 
 * i used the following to make all this be true
 
