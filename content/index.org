@@ -1,5 +1,9 @@
 #+Title: Front page
 
+* List of pages
+- [[./content/EMACS/External/emacs.org]]
+- [[./content/SUSE/index.org]]
+
 * i used the following to make all this be true
 
 https://systemcrafters.net/publishing-websites-with-org-mode/automated-site-publishing/
