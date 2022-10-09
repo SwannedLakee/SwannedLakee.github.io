@@ -1,6 +1,7 @@
 #+Title: Front page
 
 * List of pages
+here are the pages on this site
 - [[./content/EMACS/External/emacs.org]]
 - [[./content/SUSE/index.org]]
 
