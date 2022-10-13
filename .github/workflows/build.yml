@@ -25,4 +25,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.4.0
         with:
           branch: gh-pages
+          commit-message: Deploy Production Code for Commit ${{ github.sha }}
           folder: public
