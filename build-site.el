@@ -37,7 +37,8 @@
              :with-author nil           ;; Don't include author name
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc t                ;; Include a table of contents
-             :section-numbers nil)))    ;; Don't include section numbers
+             :section-numbers nil
+             :time-stamp-file nil)))    
 
 ;; Generate the site output
 (org-publish-all t)
